@@ -1,5 +1,5 @@
 Summary:	Gujarati dictionary for aspell
-Summary(pl.UTF-8):   Słownik gudżarati dla aspella
+Summary(pl.UTF-8):	Słownik gudżarati dla aspella
 Name:		aspell-gu
 Version:	0.02
 %define	subv	0
